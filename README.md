@@ -28,6 +28,9 @@ Spark: Distributed Processing
 
 Kafka: Streaming
 
+
+
+
 Syllabus
 
 Note: NYC TLC changed the format of the data we use to parquet. But you can still access the csv files here.
