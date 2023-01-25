@@ -11,5 +11,3 @@ Note: NYC TLC changed the format of the data we use to parquet. But you can stil
  Running Postgres locally with Docker
  Setting up infrastructure on GCP with Terraform
  Preparing the environment for the course
- Homework
- More details
